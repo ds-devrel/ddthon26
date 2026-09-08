@@ -1,5 +1,8 @@
 # ddthon26에 오신 것을 환영합니다!
 
+### 해커톤 행사 페이지 (과제 제출 및 FAQ)
+https://main.d3gkmtkue9o7ly.amplifyapp.com/
+
 <img width="350" height="500" alt="제목을 입력해주세요  (1)" src="https://github.com/user-attachments/assets/bf708445-15eb-40f7-b645-e141234124ba" />
 
 <br><br>
